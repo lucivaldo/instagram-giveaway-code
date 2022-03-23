@@ -42,6 +42,8 @@ Execute a aplicação
   node index.js [postId]
 ```
 
+Será criado o arquivo goldenTicket.json com as informações do ganhador do sorteio.
+
 ## Uso/Exemplos
 
 - Com o Instagram aberto, clique em alguma publicação que você queira sortear algum comentário.
@@ -51,3 +53,5 @@ Execute a aplicação
 ```bash
 node index.js CbXfY6GO8GG
 ```
+
+Consultar o arquivo goldenTicket.json para ver o ganhador do sorteio.
