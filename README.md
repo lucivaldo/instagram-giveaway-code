@@ -11,7 +11,7 @@ Programa Node.js para fazer sorteio em uma publicação do Instagram
 
 ## Variáveis de Ambiente
 
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu __.env__
 
 `INSTAGRAM_SESSION_ID` (O id da sessão ativa no Instagram. Você pode visualizar nos cookies da sessão).
 
@@ -42,7 +42,7 @@ Execute a aplicação
   node index.js [postId]
 ```
 
-Será criado o arquivo goldenTicket.json com as informações do ganhador do sorteio.
+Será criado o arquivo __goldenTicket.json__ com as informações do ganhador do sorteio.
 
 ## Uso/Exemplos
 
@@ -54,4 +54,4 @@ Será criado o arquivo goldenTicket.json com as informações do ganhador do sor
 node index.js CbXfY6GO8GG
 ```
 
-Consultar o arquivo goldenTicket.json para ver o ganhador do sorteio.
+Consultar o arquivo __goldenTicket.json__ para ver o ganhador do sorteio.
