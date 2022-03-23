@@ -55,3 +55,10 @@ node index.js CbXfY6GO8GG
 ```
 
 Consultar o arquivo __goldenTicket.json__ para ver o ganhador do sorteio.
+
+## Créditos
+
+Adriana Saty
+
+- [YouTube](https://www.youtube.com/channel/UCPhVBS-1Uy-wIzj4hmjkcmA)
+- [Instagram](https://www.instagram.com/adriana.saty)
